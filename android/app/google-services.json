@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12828399136",
+    "project_id": "fencing-club-lavrenkoav",
+    "storage_bucket": "fencing-club-lavrenkoav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12828399136:android:6e61afd54f9f3b0a63ce45",
+        "android_client_info": {
+          "package_name": "com.example.fencing_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12828399136-kebth2sr0qqeh1fkem1f3ohv4tv9rmta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjaHsy1bBgogDwjolz0Y1o4PTmE1jcac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12828399136-kebth2sr0qqeh1fkem1f3ohv4tv9rmta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
